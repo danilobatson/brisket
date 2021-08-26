@@ -1,0 +1,129 @@
+{
+  "blogs": [
+		{
+			"title": "Brisket Trim",
+			"body": "Aaron shares his signature method for shaving and shaping briskets for an even and consistent cook.",
+			"link": "https://www.masterclass.com/classes/aaron-franklin-teaches-texas-style-bbq/chapters/prep-brisket-trim#",
+			"photo": "/images/brisketTrim.jpeg",
+			"id": 1
+		},
+		{
+			"title": "Smoke: Brisket Part I",
+			"body": "Phase one of our brisket smoke involves building a fire, applying slather and rub, and cooking the meat undisturbed. Learn Aaron’s technique for seasoning evenly and developing clean flavors in the critical first hours of your cook.",
+			"link": "https://www.masterclass.com/classes/aaron-franklin-teaches-texas-style-bbq/chapters/smoke-brisket-part-i",
+			"photo": "/images/smoke.jpeg",
+			"id": 2
+		},
+		{
+			"title": "Smoke: Brisket Part II",
+			"body": "In the second phase of our 12-hour brisket smoke, Aaron shares his techniques for spritzing, getting a derailed cook back on track, and pushing through the stall while maintaining a clean and steady fire.",
+			"link": "https://www.masterclass.com/classes/aaron-franklin-teaches-texas-style-bbq/chapters/smoke-brisket-part-ii",
+			"photo": "/images/smoke2.jpeg",
+			"id": 3
+		},
+		{
+			"title": "Smoke: Brisket Part III",
+			"body": "Learn Aaron’s technique for wrapping brisket, checking for tenderness, and assessing when to pull and rest your meat in the final phase of our brisket cook.",
+			"link": "https://www.masterclass.com/classes/aaron-franklin-teaches-texas-style-bbq/chapters/smoke-brisket-part-iii",
+			"photo": "/images/smoke3.jpeg",
+			"id": 4
+		},
+		{
+			"title": "Finish: Brisket Slice",
+			"body": "Aaron walks you through his detailed, cut-by-cut process for slicing your brisket to minimize waste and maximize balance and flavor.",
+			"link": "https://www.masterclass.com/classes/aaron-franklin-teaches-texas-style-bbq/chapters/finish-brisket-slice",
+			"photo": "/images/aaronBrisket.pngnp",
+			"id": 5
+		}
+	],
+	"pounds": [
+		{
+			"weight": 9,
+			"id": 1
+		},
+		{
+			"weight": 10,
+			"id": 2
+		},
+		{
+			"weight": 11,
+			"id":3
+		},
+		{
+			"weight": 12,
+			"id":4
+		},
+		{
+			"weight": 13,
+			"id":5
+		},
+		{
+			"weight": 14,
+			"id":6
+		},
+		{
+			"weight": 15,
+			"id":7
+		},
+		{
+			"weight": 16,
+			"id":8
+		},
+		{
+			"weight": 17,
+			"id":9
+		},
+		{
+			"weight": 18,
+			"id":10
+		},
+		{
+			"weight": 19,
+			"id":11
+		},
+		{
+			"weight": 20,
+			"id":12
+		},
+		{
+			"weight": 21,
+			"id":13
+		},
+		{
+			"weight": 22,
+			"id":14
+		},
+		{
+			"weight": 23,
+			"id":15
+		},
+		{
+			"weight": 24,
+			"id":16
+		},
+		{
+			"weight": 25,
+			"id":17
+		},
+		{
+			"weight": 26,
+			"id":18
+		},
+		{
+			"weight": 27,
+			"id":19
+		},
+		{
+			"weight": 28,
+			"id":20
+		},
+		{
+			"weight": 29,
+			"id":21
+		},{
+			"weight": 30,
+			"id":22
+		}
+
+	]
+}
