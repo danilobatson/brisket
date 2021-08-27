@@ -26,7 +26,7 @@ const useFetch = (url) => {
         }
         else {
           setPending(false);
-          setError(err.message);
+          // setError(err.message);
         }
 			});
       return () => abortCont.abort()

@@ -58,7 +58,7 @@ const Home = () => {
   const classes = useStyles();
 
   return (
-		<Container className='home' style={{marginTop: 100}}>
+		<Container className='home' style={{marginTop: 100, marginLeft:240}}>
 			{error && <div>{error}</div>}
 			{pending && <div>Loading...</div>}
 			<Typography variant='h4' color='primary' align='center'>
