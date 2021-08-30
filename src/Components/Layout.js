@@ -51,7 +51,7 @@ export default function Layout({ children }) {
 			<AppBar elevation={1} className={classes.appbar}>
 				<Toolbar className={classes.root}>
 					<Typography variant='h3' style={{ color: 'white' }}>
-						JFMU
+						How To Brisket
 						<Typography color='textPrimary' className={classes.date}>
 							Today is {format(new Date(), 'MMMM do, Y')}
 						</Typography>
