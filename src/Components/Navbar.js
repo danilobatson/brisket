@@ -5,7 +5,7 @@ const Navbar = () => {
 	return (
 		<Container>
 				<Typography variant='h3' color='secondary'>
-					JFMU
+					How To Brisket
 				</Typography>
 				<div className='links'>
 					<Link to='/'>Home</Link>
