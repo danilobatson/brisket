@@ -15,7 +15,7 @@ const Temperature = () => {
 
   const handleClick = () => {
 		alert(
-			`Link not active yet`
+			`Not connected to a server. Link not active yet`
 		);
 	};
 
