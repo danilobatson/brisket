@@ -58,12 +58,14 @@ const Temperature = () => {
 				color='textSecondary'
 				component='h2'
 				gutterBottom>
-				How Many Hours Should I Cook My Brisket?
+				Imagine If You Were Eating Brisket Right Now?
+
+
 			</Typography>
 
 			<form noValidate autoComplete='off' onSubmit={handleSubmit}>
 				<Container>
-					<FormControl style={{ margin: 20 }}>
+					{/* <FormControl style={{ margin: 20 }}>
 						<NativeSelect value='Weight' onChange={handleChange}>
 							<option aria-label='None' value='' />
 							<option value='9,'>9 lbs</option>
@@ -106,7 +108,7 @@ const Temperature = () => {
 							endIcon={<SendIcon />}>
 							Submit
 						</Button>
-					</FormControl>
+					</FormControl> */}
 				</Container>
 			</form>
 		</Container>
